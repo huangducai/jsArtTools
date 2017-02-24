@@ -1,0 +1,19 @@
+说明文档
+
+1.bat 生成所有的需要压缩的资源文件到同一个目录 hebingMulu
+2.bat 将压缩过后的资源 还原到项目结构  yasuohou --》 shangchuanmulu
+
+
+ps : 1 和 2 可以分开执行
+
+1 美术只执行1 后 对 hebingMulu 的所有资源 进行压缩 
+
+
+2 压缩完成之后 将压缩后的资源 存放在 yasuohou 目录下 执行2 
+
+3 上传  shangchuanmulu 到 svn 
+
+
+
+
+
